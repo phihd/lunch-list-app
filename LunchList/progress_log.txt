@@ -1,0 +1,49 @@
+25.3.2020
+*A few lines of description of what classes have been added or updated and what functions have been implemented in them (even if they were not ready yet)
+- A trait "Restaurant" with "displayMenu" method
+- 3 Objects inherit Restaurant: ABloc, Dipoli, Kvarkki
+- Each object has separate way to get link for JSON file and display the menu (basically restaurant belongs to the same system (Fazer, Sodexo...)
+has the same ways
+- A simple UI
+- A GUI is in progress
+*What methods / functionality have been tested so far in classes so that they work properly?
+- UI has displayed precise menus with filter of favourite type of food or allergens
+- try catch, in case the data hasn't been uploaded yet, or no menu available 
+
+*What possible difficult errors have occurred and have they been resolved?
+- When the users enter the day before today, there's an error, because menu for those days has been removed
+Status: Resolved, by turn the enter date become the same day of next week
+
+*What is the workload used during this time with 5 hours accuracy
+60 hours
+
+*Whether you are ahead or lagging behind what you presented in the project plan at roughly this stage.
+Quite behind
+
+7.4.2020
+*A few lines of description of what classes have been added or updated and what functions have been implemented in them (even if they were not ready yet)
+- An usable GUI (with favourite dish tick, ingredient and allergens filter, day selection included)
+- Added 2 more restaurant that's still working during corona virus Maukas and Taffa, data from https://kanttiinit.fi/
+- "User" class added to save the data of properties, allergens, favourite courses
+- "Restaurant" has been adjusted for GUI implementation
+- Other "restaurant" has been slightly adjusted as well
+*What methods / functionality have been tested so far in classes so that they work properly?
+- GUI has been tested by trying all features and see the results, and errors have been fixed if any.
+
+*What possible difficult errors have occurred and have they been resolved?
+- Allergen and property filter worked inaccurately due to wrong code of the part when choosing suitable courses to display in the menu.
+Status: resolved
+- There are some json menu on the website that do not separate "title" and "properties". Some even doesn't have properties => bugs
+  Example: Title: "Red curry with chicken G, M, VS"
+           Properties: ""
+           Title: "Days salad portion (changes daily)"
+           Properties: ""
+Status: resolved
+- Some notification such as "No menu available." or "No course found." also has check boxes to select for favourite courses
+Status: resolved 
+
+*What is the workload used during this time with 5 hours accuracy
+60 hours
+
+*Whether you are ahead or lagging behind what you presented in the project plan at roughly this stage.
+- Catch up with the schedule, finally.

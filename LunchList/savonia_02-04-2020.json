@@ -1,0 +1,44 @@
+{
+meta: {
+generated_timestamp: 1585616967,
+ref_url: "https://www.sodexo.fi/en/restaurants/restaurant-savonia",
+ref_title: "Ravintola Savonia"
+},
+courses: {
+1: {
+title_fi: "Hernekeittoa, pannukakkua ja hilloa",
+title_en: "",
+category: "Popular",
+properties: "L",
+price: "1,09 € / 3,70 € / 7,05 €"
+},
+2: {
+title_fi: "Palapaistia ja keitettyä perunaa",
+title_en: "",
+category: "Inspiring",
+properties: "L",
+price: "1,09 € / 3,70 € / 7,05 €"
+},
+3: {
+title_fi: "Kasvis- tofutortillat ja riisiä",
+title_en: "",
+category: "Veggie",
+properties: "M",
+price: "1,00 € / 3,60 € / 7,05 €"
+},
+4: {
+title_fi: "Pannukakkua ja hilloa",
+title_en: "",
+category: "Sweet",
+properties: "L",
+price: "1,00 € / 1,20 € / 1,20 €"
+},
+5: {
+title_fi: "Metsäsienikeittoa",
+title_en: "",
+category: "Veggie soup",
+properties: "L",
+price: "0,90 € / 3,50 € / 7,05 €"
+}
+}
+}

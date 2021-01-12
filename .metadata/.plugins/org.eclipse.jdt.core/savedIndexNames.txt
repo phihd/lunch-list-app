@@ -1,0 +1,23 @@
+INDEX VERSION 1.130+G:\Programming project\Lunch List\Phi\Fix\.metadata\.plugins\org.eclipse.jdt.core
+3453334992.index
+2289730881.index
+3509001890.index
+304333737.index
+2778832813.index
+116619765.index
+2616665424.index
+4288496608.index
+3605454556.index
+1728638175.index
+3255676140.index
+3694602510.index
+3187649249.index
+750462197.index
+90570970.index
+2226992035.index
+2125053402.index
+1594337232.index
+3655021530.index
+2078293411.index
+3081230600.index
+1064654753.index

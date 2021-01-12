@@ -1,0 +1,118 @@
+2020-04-27 22:14:13,042  WARN [ModalContext] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:14:13,045  WARN [ModalContext] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:14:22,396  WARN [Java indexing] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:14:22,397  WARN [Java indexing] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:14:23,200  WARN [Java indexing] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:14:23,201  WARN [Java indexing] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:14:23,343  WARN [Worker-6] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:14:23,344  WARN [Worker-6] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:14:23,414  WARN [Worker-6] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:14:23,414  WARN [Worker-6] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:15:18,725  WARN [ModalContext] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:15:18,725  WARN [ModalContext] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:15:18,947  WARN [Worker-6] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:15:18,947  WARN [Worker-6] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:15:23,087  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:15:23,087  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:15:26,589  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:15:27,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:15:28,531  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:16:56,209  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:16:56,789  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:16:59,475  WARN [Worker-3] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:16:59,475  WARN [Worker-3] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:16:59,866  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:00,433  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:05,996  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:06,555  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:08,111  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:08,675  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:45,209  WARN [Worker-7] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:17:45,209  WARN [Worker-7] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:17:45,372  WARN [Worker-9] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:17:45,372  WARN [Worker-9] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:17:45,760  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:17:45,760  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:17:46,154  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:46,752  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:47,302  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:47,853  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:50,912  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:17:51,465  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:13,057  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:13,607  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:37,173  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:37,713  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:40,259  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:18:40,800  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:19:03,864  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:19:04,409  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:22:37,165  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:22:37,706  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:23:21,793  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:23:22,331  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:23:57,400  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:23:57,944  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:30,016  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:30,555  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:38,599  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:39,143  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:41,179  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:24:41,714  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:07,273  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:07,817  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:09,856  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:10,391  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:23,445  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:23,981  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:47,542  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:25:48,082  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 509
+2020-04-27 22:26:18,848  WARN [Worker-0] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:26:18,848  WARN [Worker-0] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:26:18,956  WARN [Worker-7] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:26:18,957  WARN [Worker-7] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:26:19,647  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:26:19,647  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:38:05,897  WARN [Worker-13] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:38:05,897  WARN [Worker-13] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:38:06,007  WARN [Worker-17] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:38:06,007  WARN [Worker-17] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:38:06,432  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:38:06,432  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:40:37,137  WARN [Worker-0] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:40:37,137  WARN [Worker-0] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:40:37,246  WARN [Worker-17] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:40:37,246  WARN [Worker-17] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-27 22:40:37,677  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-27 22:40:37,677  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:32:19,033  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:32:19,042  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:32:19,067  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:32:19,067  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:33:34,900  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:33:34,901  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:33:34,907  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:33:34,907  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:34:06,307  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-04-30 15:41:56,916  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:41:56,918  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:41:56,922  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:41:56,922  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:48:44,936  WARN [Worker-11] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:48:44,942  WARN [Worker-11] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 15:48:45,115  WARN [Worker-11] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 15:48:45,115  WARN [Worker-11] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 16:00:20,092  WARN [Worker-15] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 16:00:20,093  WARN [Worker-15] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 16:00:43,304  WARN [Worker-14] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 16:00:43,305  WARN [Worker-14] - ScalaProject - Project LunchList runs on platform default installation.
+2020-04-30 16:00:50,271  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-04-30 16:00:52,292  WARN [Worker-8] - ScalaProject - Project LunchList has platform default sourceLevel.
+2020-04-30 16:00:52,292  WARN [Worker-8] - ScalaProject - Project LunchList runs on platform default installation.
+2020-05-03 19:50:38,062  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2020-05-03 19:50:39,564  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2021-01-12 04:43:36,909  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2021-01-12 04:43:36,995  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2021-01-12 04:43:36,999  WARN [main] - ScalaProject - Project LunchList has platform default sourceLevel.
+2021-01-12 04:43:36,999  WARN [main] - ScalaProject - Project LunchList runs on platform default installation.
+2021-01-12 04:47:18,650  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

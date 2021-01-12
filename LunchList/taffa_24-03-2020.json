@@ -1,0 +1,70 @@
+{
+openingHours: [
+"10:30 - 15:00",
+"10:30 - 15:00",
+"10:30 - 17:30",
+"10:30 - 15:00",
+"10:30 - 15:00",
+null,
+null
+],
+id: 3,
+type: "https://api.kanttiinit.fi/images/taffa.png",
+url: "https://www.teknologforeningen.fi",
+latitude: 60.1860346900454,
+longitude: 24.8327559092621,
+address: "Otakaari 22, 02150 Espoo",
+name: "Täffä",
+menus: [
+{
+day: "2020-03-24",
+courses: [
+{
+title: "Butterchicken",
+properties: [
+"E",
+"G",
+"L",
+"S"
+]
+},
+{
+title: "Fish selyanka",
+properties: [
+"A+",
+"E",
+"G",
+"H",
+"S"
+]
+},
+{
+title: "tofu salad",
+properties: [
+"A+",
+"E",
+"H",
+"M"
+]
+},
+{
+title: "Vegetable green curry",
+properties: [
+"E",
+"H",
+"M"
+]
+},
+{
+title: "A la Carte: Chirizo, crispy potatoes and sauerkraut",
+properties: [
+"E",
+"G",
+"M",
+"S"
+]
+}
+]
+}
+]
+}

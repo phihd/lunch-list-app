@@ -306,8 +306,8 @@ object GUI extends SimpleSwingApplication {
     
     
     def updateInfo() = {
-      updateBox(ABlocBox, ABloc)
-      updateBox(DipoliBox, Dipoli)
+      //updateBox(ABlocBox, ABloc)
+      //updateBox(DipoliBox, Dipoli)
       updateBox(KvarkkiBox, Kvarkki)
       updateBox(TaffaBox, Taffa)
       updateBox(MaukasBox, Maukas)
